@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Learning Words</string>
+    <string name="add_verb">Add verb</string>
+    <string name="remove_verb">Remove verb</string>
 </resources>
